@@ -29,3 +29,9 @@ body {
   fill: none;
   stroke: steelblue;
 }
+
+
+#apple-stock-container {
+  color: red;
+  border: 10px solid black;
+}
